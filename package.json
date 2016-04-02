@@ -1,0 +1,15 @@
+{
+  "name": "setting-template",
+  "version": "1.0.0",
+  "description": "ignore setting-file easily",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "example": "node example/index.js"
+  },
+  "keywords": ["setting", "ignore"],
+  "author": "ISHII 2bit",
+  "license": "MIT"
+}
